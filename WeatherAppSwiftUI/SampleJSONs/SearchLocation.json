@@ -1,0 +1,78 @@
+[
+    {
+        "name": "Vancouver",
+        "local_names": {
+            "ja": "バンクーバー",
+            "fr": "Vancouver",
+            "ko": "밴쿠버",
+            "bn": "বাংকূবর",
+            "es": "Vancouver",
+            "ar": "فانكوفر",
+            "it": "Vancouver",
+            "uk": "Ванкувер",
+            "hi": "वांकूवर",
+            "de": "Vancouver",
+            "kn": "ವಾಂಕೂವರ್",
+            "oc": "Vancouver",
+            "fa": "ونکوور",
+            "sr": "Ванкувер",
+            "be": "Ванкувер",
+            "zh": "溫哥華",
+            "en": "Vancouver",
+            "el": "Βανκούβερ",
+            "ru": "Ванкувер"
+        },
+        "lat": 49.2608724,
+        "lon": -123.113952,
+        "country": "CA",
+        "state": "British Columbia"
+    },
+    {
+        "name": "Vancouver Island",
+        "local_names": {
+            "cs": "Vancouver",
+            "fr": "Île de Vancouver",
+            "nl": "Vancouvereiland",
+            "zh": "溫哥華島",
+            "en": "Vancouver Island",
+            "es": "Isla de Vancouver",
+            "pt": "Ilha Vancouver",
+            "ja": "バンクーバー島",
+            "ru": "Остров Ванкувер"
+        },
+        "lat": 49.592949450000006,
+        "lon": -125.70255696124094,
+        "country": "CA",
+        "state": "British Columbia"
+    },
+    {
+        "name": "Vancouver",
+        "local_names": {
+            "ru": "Ванкувер",
+            "uk": "Ванкувер",
+            "it": "Vancouver",
+            "bg": "Ванкувър",
+            "pt": "Vancouver",
+            "ko": "밴쿠버",
+            "en": "Vancouver",
+            "fa": "ونکوور",
+            "zh": "溫哥華",
+            "es": "Vancouver",
+            "ar": "فانكوفر",
+            "de": "Vancouver",
+            "ja": "バンクーバー",
+            "vi": "Vancouver",
+            "fr": "Vancouver"
+        },
+        "lat": 45.6306954,
+        "lon": -122.6744557,
+        "country": "US",
+        "state": "Washington"
+    },
+    {
+        "name": "Vancouver",
+        "lat": 4.585473,
+        "lon": -74.3518473,
+        "country": "CO"
+    }
+]
